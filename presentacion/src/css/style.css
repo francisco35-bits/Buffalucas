@@ -7,6 +7,12 @@
 }
 
 header{
-    padding: auto;
-    display: block;
+    background-color: black;
+}
+
+.nav-bar{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
